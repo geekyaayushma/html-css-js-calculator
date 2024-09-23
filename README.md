@@ -1,1 +1,1 @@
-The calculator using HTML ,CSS and Javascript.
+The calculator using html ,css and Javascript.
